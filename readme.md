@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [moment/moment](http://github.com/moment/moment). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/moment-moment`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 A lightweight javascript date library for parsing, validating, manipulating, and formatting dates.
 
 # [Documentation](http://momentjs.com/docs/)
